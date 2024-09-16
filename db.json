@@ -1,0 +1,52 @@
+{
+  "buzzes": [
+    {
+      "user": "Sophia_Qing",
+      "isFollowed": true,
+      "content": "I was watching Episode VI again when I noticed this. Who is that person behind the Emperor? The largest crypto exchange in the US, Coinbase, has made a notable move regarding the allegation from the US Securities and Exchange Commission on securities law violation.",
+      "txid": "0a930e...a1a",
+      "id": "0a930e...a1a",
+      "createTime": "2023-11-14 15:18:20"
+    },
+    {
+      "user": "Mino",
+      "isFollowed": false,
+      "content": "I was watching Episode VI again when I noticed this. Who is that person behind the Emperor? The largest crypto exchange in the US, Coinbase, has made a notable move regarding the allegation from the US Securities and Exchange Commission on securities law violation.",
+      "txid": "0b930e...a1a",
+      "id": "0b930e...a1a",
+      "createTime": "2023-10-14 15:18:20"
+    },
+    {
+      "user": "Taeyang",
+      "isFollowed": true,
+      "content": "I was watching Episode VI again when I noticed this. Who is that person behind the Emperor? The largest crypto exchange in the US, Coinbase, has made a notable move regarding the allegation from the US Securities and Exchange Commission on securities law violation.",
+      "txid": "0c930e...a1a",
+      "id": "0c930e...a1a",
+      "createTime": "2023-12-11 15:18:20"
+    },
+    {
+      "user": "Gigg",
+      "isFollowed": false,
+      "content": "I was watching Episode VI again when I noticed this. Who is that person behind the Emperor? The largest crypto exchange in the US, Coinbase, has made a notable move regarding the allegation from the US Securities and Exchange Commission on securities law violation.",
+      "txid": "0d930e...a1a",
+      "id": "0d930e...a1a",
+      "createTime": "2023-12-10 15:18:20"
+    },
+    {
+      "content": "abcdefg",
+      "createTime": "2023-12-15 13:51:14",
+      "id": "fd510b88-6713-4f10-a332-2f4081f428ba",
+      "user": "vae",
+      "isFollowed": false,
+      "txid": "fd510b88-6713-4f10-a332-2f4081f428ba"
+    },
+    {
+      "content": "",
+      "createTime": "2024-02-06 19:54:00",
+      "id": "37e0de17-c634-4ef7-bff1-0ec02041c1ba",
+      "user": "vae",
+      "isFollowed": false,
+      "txid": "37e0de17-c634-4ef7-bff1-0ec02041c1ba"
+    }
+  ]
+}
